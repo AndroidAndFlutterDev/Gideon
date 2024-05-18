@@ -5,4 +5,4 @@ a simple Machine Learning model, got nothing to do with AI, but, as i said befor
 that the capabilities are programed, (you will found it) and type : elif "whatever you wish to add" in rec:
                                                                        speak("whatever you want te receive")
 And that's it. You have a very good assistant, at your service.
-PD: for music playng you have to get a youtube api, you can do that by searching the Google extension "youtubev3", or something like that, and create a new api key, copy, and put that on the "keys.json" file, on the variable "youtube_key"
+PD: for music playing you have to get a youtube api, you can do that by searching the Google extension "youtubev3", or something like that, and create a new api key, copy, and put that on the "keys.json" file, on the variable "youtube_key"
