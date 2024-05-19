@@ -170,11 +170,11 @@ while True:
 
         elif 'un chiste' in rec:
             chiste = pyjokes.get_joke("es")
-            speak("okey, ahi va uno.", chiste)
+            speak("okey, ahi va uno." + chiste)
             
         elif 'otro chiste' in rec:
             chiste = pyjokes.get_joke("es")
-            speak("okey, ahi va otro.a ver si este te gusta mas.", chiste)
+            speak("okey, ahi va otro.a ver si este te gusta mas." + chiste)
 
         elif 'cuanto es' in rec:
             speak(sm.getResult(rec))
