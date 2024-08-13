@@ -1,7 +1,7 @@
 '''
     Description: 
     Author: Julian Principe, AVM, Blackbox
-    Version: 0.2.9
+    Version: 0.3.0
 '''
 import AVMSpeechMath as sm
 import AVMYT as yt
